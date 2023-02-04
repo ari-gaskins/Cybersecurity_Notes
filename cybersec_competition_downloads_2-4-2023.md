@@ -12,4 +12,4 @@
 |Malwarebytes|[Malwarebytes (Malware removal) (Windows)](https://www.malwarebytes.com/mwb-download) [Malwarebytes (Anti-Virus)](https://www.malwarebytes.com/solutions/free-antivirus)|[Docs](https://support.malwarebytes.com/hc/en-us/articles/360038984693-Malwarebytes-for-Windows-guide)|Stop Malware Attacks/Protect Against Malware|This is for Windows, Mac, iOS, Android only|
 |Sysinternals|[Sysinternals](https://download.sysinternals.com/files/SysinternalsSuite.zip)|[Docs](https://learn.microsoft.com/en-us/sysinternals/)|Monitor, Manage, Troubleshoot OS|This is for Windows only, but their are a few Linux features mentioned in docs|
 |Fail2ban|[Fail2ban (Linux)](https://www.fail2ban.org/wiki/index.php/Downloads)|[Docs](https://www.fail2ban.org/wiki/index.php/HOWTOs)|Block Brute-force Attacks|This reduces incorrect authentication attempts on the system. It's available for multiple Linux OS systems, not Windows.|
-
+|Nmap|[Nmap (Windows/macOS/rpm)](https://nmap.org/download)|[Docs](https://nmap.org/docs.html)|Port Scanner|This is used for network exploitation and security auditing. Stands for "Network Mapper."|
